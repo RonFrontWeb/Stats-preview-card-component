@@ -23,6 +23,7 @@
 body {
     font-family: 'Inter', sans-serif;
     font-size: 15px;
+    background-color: var(--darkblue);
 }
 
 .main__container {
@@ -118,7 +119,6 @@ body {
         justify-content: center;
         align-items: center;
         min-height: 100vh;
-        background-color: var(--darkblue);
     }
     .main__container {
         display: grid;
